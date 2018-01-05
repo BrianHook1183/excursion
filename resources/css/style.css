@@ -2,9 +2,7 @@ body {
   background-color: black;
   text-align: center;
   font-family: Verdana;
-}
-h1, h2 {
-  color: white;
+    color: white;
 }
 h1{
   font-size: 50px;
